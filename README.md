@@ -1,4 +1,8 @@
-# docker-compose-files
+# Useful Docker Compose files
+
+- Install docker.
+- Download a docker-compose file from this repo.
+- run `docker-compose up` to launch the application.
 
 ## Postgres
 
